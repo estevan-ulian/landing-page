@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+:root {
+    --primary-color: #0a1128;
+    --secondary-color: crimson;
+    --white-color: #fff;
+    --light-grey-color: #eeeeee;
+    --gap: 3rem;
+}
